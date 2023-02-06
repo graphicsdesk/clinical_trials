@@ -7,12 +7,209 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia University Irving Medical Center will launch the diversity in clinical trials training program next Wednesday."
+          },
+          {
+            "type": "text",
+            "value": "The program will provide training to early career investigators on conducting clinical trials and research, with a particular focus on overcoming patient mistrust due to a lack of diversity among clinical trial investigators, according to Alexis Pissey Keo, the diversity, equity, and inclusion clinical research manager at the medical center."
+          },
+          {
+            "type": "subhed",
+
+              "value": "The importance of diverse representation in clinical trials"
+
+          },
+          {
+            "type": "text",
+            "value": "Clinical trials test new treatments when current standards of care cannot effectively treat patients."
+          },
+          {
+            "type": "text",
+            "value": "“The way that you really convince people that a clinical trial is the right thing, especially in pancreas cancer, is because the current treatments are not acceptable,” Dr. Gulam Manji, assistant professor of medicine at the medical center and researcher at the Herbert Irving Comprehensive Cancer Center, said."
+          },
+          {
+            "type": "text",
+            "value": "Diverse patient participation is essential in order to advance treatments and ensure efficacy for different diseases in clinical trials, according to Grace Hillyer, an assistant professor of epidemiology at the medical center and investigator in the department of epidemiology. Most clinical trials study non-Hispanic white male patients, a limited sample unfit to study a treatment’s effects on the broader population, Hillyer said, meaning that dosage, side effects, intake, and other aspects of medicine tend to be tailored to a mostly white, male population."
+          },
+          {
+            "type": "text",
+            "value": "“One size doesn’t fit all,” Hillyer said."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "trials_plot_paulette_test.html"
+            }
+          },
+          {
+            "type": "subhed",
+  
+              "value": "Perceptive and logistical barriers to access"
+
+          },
+          {
+            "type": "text",
+            "value": "Communities of color are less likely to be represented in clinical trials for several reasons. Community Board 9 patients, many of whom come from the neighborhoods of West Harlem and Hamilton Heights, may be less likely to seek care from Columbia’s medical institutions because of <a href=\"https://www.columbiaspectator.com/city-news/2022/09/23/students-and-harlem-residents-protest-gentrification-on-low-steps/\">Columbia’s history of controversial expansions</a>, according to Robert Fullilove, associate dean for community and minority affairs at the Mailman School of Public Health."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia’s history as an uneasy neighbor … has also been one of the facts that folk who are engaged in public health activity … often have to overcome,” Fullilove said."
+          },
+          {
+            "type": "text",
+            "value": "Black communities are also less likely to seek care because of fear that doctors will not believe their concerns, Fullilove said. Doctors may question the origins of the patient’s pain and cast doubt on whether they are really in pain at all or are just seeking drugs—a stereotype that leads some doctors to withhold treatments from Black patients altogether."
+          },
+          {
+            "type": "text",
+            "value": "“The result has been, historically, a less than appropriate level of participation in these studies, in clinical trials, from members of minority communities,” Fullilove said."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "clinical_trials_tables.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Hillyer, whose research is focused on the “underrepresentation of diverse patients with cancer to clinical trials,” studied the attitudes and beliefs among physicians, researchers, and cancer patients that prevent participation in clinical trials."
+          },
+          {
+            "type": "text",
+            "value": "She found that doctors believed some patients did not join clinical trials because they did not trust researchers. Patients, however, were willing to join trials but were often held back by logistical reasons such as lack of access to transportation."
+          },
+          {
+            "type": "text",
+            "value": "“They were on two different paths, just wildly different,” Hillyer said."
+          },
+          {
+            "type": "text",
+            "value": "Clinical trials are a time commitment that may require patients to come to the trial site multiple times per week. They may be unable to attend during work hours, afford transportation, afford the clinical trial without insurance that covers it, or have someone look after their children while they seek care. To help incentivize and assist patients who face these barriers, Columbia has begun giving monetary incentives for some clinical trials, according to Pissey Keo."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "age_distribution.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Hillyer said she  is currently conducting a study on implicit biases in provider care relaying information about clinical trials that prevent minority access. She said implicit bias from physicians is the driving force behind the lack of minority representation in clinical trials. Whereas much of the current research focuses on the lack of representation as personal patient failure, Hillyer said the focus should be on the implicit bias of doctors."
+          },
+          {
+            "type": "subhed",
+
+              "value": "Preconceptions about clinical trials"
+
+          },
+          {
+            "type": "text",
+            "value": "Additionally, patients holding preconceptions about clinical trials may be less likely to participate, Pissey Keo said, an issue she attributed in part to challenges in health literacy. Informed consent forms and protocol designs are often packed with jargon and “really difficult to digest,” Keo said, “Even as a person who’s familiar with clinical trials.”"
+          },
+          {
+            "type": "text",
+            "value": "Another common misconception that concerns patients is the belief that once they sign the consent form that they are legally bound to stay until the clinical trial has concluded, Hillyer said. In reality, she said, participants in a clinical trial can withdraw their consent at any time if they no longer feel comfortable being in the trial."
+          },
+          {
+            "type": "text",
+            "value": "Patients may feel that they may get inadequate treatment during the clinical trial, but if patients are feeling unwell on a new treatment, they will be attended to by the doctor. The first priority of the doctor is to “do no harm,” Hillyer said."
+          },
+          {
+            "type": "text",
+            "value": "Additionally, patients in clinical trials are even more heavily monitored than average patients. “We do want to make sure that everything is safe and ethical and that we’re doing the right thing,” Brianne Bodin, oncology research nurse manager at the medical center, said."
+          },
+          {
+            "type": "text",
+            "value": "One of the biggest concerns that patients have, however, is that they will be given a placebo that is not providing any treatment to them whatsoever. But clinical trials work differently, Hillyer said: Placebos are generally used in the phase one studies and, in other cases, patients get tested on a combination of currently available treatments and new treatments."
+          },
+          {
+            "type": "subhed",
+
+              "value": "Community and patient-centered care"
+
+          },
+          {
+            "type": "text",
+            "value": "To boost community health and engage community members on clinical trials, among other issues, Columbia could “stop the practice of demanding that ‘If you want to have medical care, you got to come to us,’” Fullilove said."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s program, the Institute for Training Outreach and Community Health, works on bringing medical care to the community through training. Fullilove believes their community-based model is the “future for healthcare in the United States.”"
+          },
+          {
+            "type": "text",
+            "value": "InTOuCH is an eight-week training program—based on the Centers for Disease Control and Prevention community health worker stroke and cardiovascular disease prevention curriculum—meant to train local community members on cardiovascular and mental health care."
+          },
+          {
+            "type": "text",
+            "value": "Participants receive technical training in identifying risk factors for hypertension, blood pressure testing, BMI measurements, and more, according to Dr. Janhavi Mallaiah, the program’s director. Participants from any background are welcome at the program, and InTOuCH has trained 182 community members so far."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "clinical_trials.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Glenn McMillan, who completed the program in 2018, said he spent almost 40 years working as a financial industry regulator with the New York Stock Exchange and other financial institutions before joining InTOuCH."
+          },
+          {
+            "type": "text",
+            "value": "McMillan, a longtime resident of Hamilton Heights, said he wanted to engage with his community in a new capacity. McMillan is trained to conduct motivational interviews to counsel potential mental health patients in the community and guide them to additional services if needed, he said. As a graduate of InTOuCH, he is involved with the program’s Transforming Your Mental Health Through Prayer & Healing study."
+          },
+          {
+            "type": "text",
+            "value": "McMillan said the main way this program finds patients to undergo clinical research is by partnering with local Black churches to spread the word to their congregants."
+          },
+          {
+            "type": "text",
+            "value": "“People trust their ministers, they trust their churches,” he said."
+          },
+          {
+            "type": "text",
+            "value": "Reshaping how this research is usually conducted may also help build relationships and engagement with the broader local community. Columbia’s Herbert Irving Comprehensive Cancer Center is part of the Diversity & Inclusion in Scientific Research Underpinning Prevention & Therapy Trials program, which uses community engagement studios in place of focus groups to engage with community members on their own terms, said Kimberly Burke, assistant director of operations in community outreach and engagement at HICCC."
+          },
+          {
+            "type": "text",
+            "value": "Focus groups typically foster a researcher-patient dynamic, where the researcher will ask questions to the patient focus group about issues they are facing with their illnesses to elicit feedback on clinical trials and research, Burke said. In a studio session, however, the researcher acts as an observer to patient-led discussions on their own diseases. HICCC has helped host nine of these studios so far with participants from 48 community organizations, Burke said."
+          },
+          {
+            "type": "text",
+            "value": "The DISRUPT program is also working to make clinical trials more accessible to participants and give them more options on where to go for care. If HICCC does not offer the clinical trial that a patient is seeking, Burke said, they are redirected to equivalent programs at Mount Sinai’s Tisch Cancer Institute, Montefiore Einstein Cancer Center, and the City College of New York."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Rainier Harris can be contacted at </i><a href=\"mailto:rainier.harris@columbiaspectator.com\"><i>rainier.harris@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter @ColumbiaSpec.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics editor Adina Cazacu-De Luca can be contacted at </i><a href=\"mailto:adina.cazacu.de.luca@columbiaspectator.com\"><i>adina.cazacu.de.luca@columbiaspectator.com</i></a><i> or on Twitter</i><i> @adidanic.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i> </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics staff member Paulette Del Valle can be contacted at </i><a href=\"mailto:paulette.del.valle@columbiaspectator.com\"><i>paulette.del.valle@columbiaspectator.com</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Medical center to launch ‘diversity in clinical trials’ training program as racial disparities in clinical care persist",
+        "date": "February 5, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Rainier-Harris/\">Rainier Harris</a>",
+        "byline2": "Graphics by<a href=\"https://www.columbiaspectator.com/search=adina%20cazacu%20de%20luca&from=0/\"> Adina Cazacu-De Luca</a> and Paulette Del Valle",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1ctgNmeYQLvuhtruFH8QsTs6eKmH1DaIrjIjSpcn3W3A/edit#"
       }
     }
   }
